@@ -1,0 +1,5 @@
+{
+  "name": "LabPro Diagnostics Website",
+  "description": "A modern, single-page diagnostics and pathology lab website for 'LabPro Diagnostics', built with React and Tailwind CSS. It features test listings, health packages, center locations, and a professional, responsive user interface.",
+  "requestFramePermissions": []
+}
